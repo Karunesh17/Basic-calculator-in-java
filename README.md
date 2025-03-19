@@ -16,7 +16,7 @@ This is a simple **Basic Calculator** built using **Java**. It allows users to p
 ## 💡 How to Run
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/Basic-Calculator-Java.git
+git clone https://github.com/Karunesh17/Basic-calculator-in-java
 javac Calculator.java
 java Calculator 
 Enter operator (+, -, *, /): +
